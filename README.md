@@ -2,9 +2,13 @@
 All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases.
 
 # Tables
-[Poland](https://github.com/mbiesiad/COVID-19-Poland/blob/master/poland.csv)
++[Poland](https://github.com/mbiesiad/COVID-19-Poland/blob/master/poland.csv)
 
-# Sources:
++[Germany](https://github.com/mbiesiad/COVID-19-Poland/blob/master/germany.csv)
+
+# Sources for:
+Poland
 [worldometers](https://www.worldometers.info/coronavirus/country/poland/), [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Poland)
 
-
+Germany
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Germany)
