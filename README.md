@@ -1,5 +1,5 @@
 # COVID-19-Poland [WIP]
-All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases.
+All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases (csv format).
 Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Canada, USA, Israel, Japan and more.
 
 *Update: extended also with Non-EU countries (see below)*
@@ -32,6 +32,28 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 +[Denmark](https://github.com/mbiesiad/COVID-19-Poland/blob/master/denmark.csv)
 
++[Ukraine](https://github.com/mbiesiad/COVID-19-Poland/blob/master/ukraine.csv)
+
++[Albania](https://github.com/mbiesiad/COVID-19-Poland/blob/master/albania.csv)
+
++[Portugal](https://github.com/mbiesiad/COVID-19-Poland/blob/master/portugal.csv)
+
++[Italy](https://github.com/mbiesiad/COVID-19-Poland/blob/master/italy.csv)
+
++[Greece](https://github.com/mbiesiad/COVID-19-Poland/blob/master/greece.csv)
+
++[Norway](https://github.com/mbiesiad/COVID-19-Poland/blob/master/norway.csv)
+
++[Sweden](https://github.com/mbiesiad/COVID-19-Poland/blob/master/sweden.csv)
+
++[Finland](https://github.com/mbiesiad/COVID-19-Poland/blob/master/finland.csv)
+
++[Netherlands](https://github.com/mbiesiad/COVID-19-Poland/blob/master/netherlands.csv)
+
++[Switzerland](https://github.com/mbiesiad/COVID-19-Poland/blob/master/switzerland.csv)
+
++[Belgium](https://github.com/mbiesiad/COVID-19-Poland/blob/master/belgium.csv)
+
 +[Europe](https://github.com/mbiesiad/COVID-19-Poland/blob/master/eu.csv)
 
 ## North America
@@ -56,6 +78,8 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 +[Georgia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/georgia.csv)
 
 +[Russia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/russia.csv)
+
++[Russia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-korea.csv)
 
 ## Africa
 +[South Africa](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-africa.csv)
@@ -136,6 +160,42 @@ Chile:
 Denmark:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark)
 
+Ukraine:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Ukraine)
+
+Albania:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Albania)
+
+Portugal:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Portugal)
+
+Italy:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Italy)
+
+Greece:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Greece)
+
+Norway:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Norway)
+
+Sweden:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Sweden)
+
+Finland:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Finland)
+
+Netherlands:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Netherlands)
+
+Switzerland:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Switzerland)
+
+Belgium:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Belgium)
+
+South Korea:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Korea)
+
 # days_from_first_case counted since:
 *(date of first case, sources as [above](#sources-for))*
 
@@ -194,6 +254,33 @@ Chile: 2020-3-3
 
 Denmark: 2020-2-27
 
+Ukraine: 2020-3-3
+
+Albania: 2020-3-8
+
+Portugal: 2020-3-2
+
+Italy: 2020-1-31
+
+Greece: 2020-2-26
+
+Norway: 2020-2-26
+
+Sweden: 2020-1-31
+*(Note: here, counted by. First case on 2020-1-24? todo-check)*
+
+Finland: 2020-2-26
+*(Note: here, counted by. First case on 2020-1-23/28? todo-check)*
+
+Netherlands: 2020-2-27
+
+Switzerland: 2020-2-25
+
+Belgium: 2020-3-16
+*(Note: here, counted by. First case on 2020-2-4 todo-check)*
+
+South Korea: 2020-1-20
+
 ## Contribution
 Your contribution is warmly welcome.
 
@@ -215,5 +302,7 @@ I can't guarantee a 100% completeness and correctness of the data. I expressly r
 
 ------------------------
 Last updated: 30/3/2020
+
+Created by: @[mbiesiad](https://github.com/mbiesiad)
 
 #stayhome #staysafe
