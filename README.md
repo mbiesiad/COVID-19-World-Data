@@ -51,6 +51,7 @@ Germany: 2020-2-24
 Czech Republic: 2020-3-1
 
 France: 2020-2-25
+*(Note: here, counted by. First case on 2020-1-24? todo-check)*
 
 Slovakia: 2020-3-6
 
