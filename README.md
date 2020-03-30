@@ -41,6 +41,23 @@ Spain:
 United Kingdom:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_Kingdom)
 
+# days_from_first_case counted since:
+*(date of first case, sources as [above](#sources-for))*
+
+Poland: 2020-3-4
+
+Germany: 2020-2-24
+
+Czech Republic: 2020-3-1
+
+France: 2020-2-25
+
+Slovakia: 2020-3-6
+
+Spain: 2020-1-31
+
+United Kingdom: 2020-1-31
+
 ## Contribution
 Your contribution is warmly welcome.
 
@@ -61,6 +78,6 @@ Examples of behavior that contributes to creating a positive environment include
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
 
 ------------------------
-Last updated: 29/3/2020
+Last updated: 30/3/2020
 
 #stayhome #staysafe
