@@ -1,6 +1,8 @@
 # COVID-19-Poland [WIP]
 All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases.
-Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Canada.
+Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Canada, USA, Israel, Japan.
+
+*Update: extended also with Non-EU countries (see below)*
 
 ![chart_pl](https://github.com/mbiesiad/COVID-19-Poland/blob/master/media/chart_pl.png)
 
@@ -22,6 +24,13 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 ## North America
 +[Canada](https://github.com/mbiesiad/COVID-19-Poland/blob/master/canada.csv)
+
++[USA](https://github.com/mbiesiad/COVID-19-Poland/blob/master/usa.csv)
+
+## Asia
++[Israel](https://github.com/mbiesiad/COVID-19-Poland/blob/master/israel.csv)
+
++[Japan](https://github.com/mbiesiad/COVID-19-Poland/blob/master/japan.csv)
 
 # Sources for:
 Poland:
@@ -48,6 +57,15 @@ United Kingdom:
 Canada:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Canada)
 
+USA:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States)
+
+Israel:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Israel)
+
+Japan:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Japan)
+
 # days_from_first_case counted since:
 *(date of first case, sources as [above](#sources-for))*
 
@@ -67,6 +85,13 @@ Spain: 2020-1-31
 United Kingdom: 2020-1-31
 
 Canada: 2020-1-27
+
+USA: 2020-3-16
+*(Note: here, counted by. First case on 2020-1-21? todo-check)*
+
+Israel: 2020-2-21
+
+Japan: 2020-1-29
 
 ## Contribution
 Your contribution is warmly welcome.
