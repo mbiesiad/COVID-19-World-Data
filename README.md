@@ -1,4 +1,4 @@
-# COVID-19-Poland
+# COVID-19-Poland [WIP]
 All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases.
 Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK.
 
