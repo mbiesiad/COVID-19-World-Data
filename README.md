@@ -1,10 +1,11 @@
 # COVID-19-Poland [WIP]
 All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases.
-Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK.
+Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Canada.
 
 ![chart_pl](https://github.com/mbiesiad/COVID-19-Poland/blob/master/media/chart_pl.png)
 
 # Tables
+## Europe
 +[Poland](https://github.com/mbiesiad/COVID-19-Poland/blob/master/poland.csv)
 
 +[Germany](https://github.com/mbiesiad/COVID-19-Poland/blob/master/germany.csv)
@@ -18,6 +19,9 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK.
 +[Spain](https://github.com/mbiesiad/COVID-19-Poland/blob/master/spain.csv)
 
 +[United Kingdom](https://github.com/mbiesiad/COVID-19-Poland/blob/master/uk.csv)
+
+## North America
++[Canada](https://github.com/mbiesiad/COVID-19-Poland/blob/master/canada.csv)
 
 # Sources for:
 Poland:
@@ -41,6 +45,9 @@ Spain:
 United Kingdom:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_Kingdom)
 
+Canada:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Canada)
+
 # days_from_first_case counted since:
 *(date of first case, sources as [above](#sources-for))*
 
@@ -58,6 +65,8 @@ Slovakia: 2020-3-6
 Spain: 2020-1-31
 
 United Kingdom: 2020-1-31
+
+Canada: 2020-1-27
 
 ## Contribution
 Your contribution is warmly welcome.
