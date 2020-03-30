@@ -22,6 +22,10 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 +[United Kingdom](https://github.com/mbiesiad/COVID-19-Poland/blob/master/uk.csv)
 
++[Georgia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/georgia.csv)
+
++[Europe](https://github.com/mbiesiad/COVID-19-Poland/blob/master/eu.csv)
+
 ## North America
 +[Canada](https://github.com/mbiesiad/COVID-19-Poland/blob/master/canada.csv)
 
@@ -31,6 +35,13 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 +[Israel](https://github.com/mbiesiad/COVID-19-Poland/blob/master/israel.csv)
 
 +[Japan](https://github.com/mbiesiad/COVID-19-Poland/blob/master/japan.csv)
+
++[India](https://github.com/mbiesiad/COVID-19-Poland/blob/master/india.csv)
+
++[Georgia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/georgia.csv)
+
+## Australia
++[New Zealand](https://github.com/mbiesiad/COVID-19-Poland/blob/master/new-zealand.csv)
 
 # Sources for:
 Poland:
@@ -66,6 +77,18 @@ Israel:
 Japan:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Japan)
 
+Europe:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Europe)
+
+Georgia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Georgia_(country))
+
+New Zealand:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_Zealand)
+
+India:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India)
+
 # days_from_first_case counted since:
 *(date of first case, sources as [above](#sources-for))*
 
@@ -92,6 +115,18 @@ USA: 2020-3-16
 Israel: 2020-2-21
 
 Japan: 2020-1-29
+
+Europe: 2020-3-16
+*(Note: here, counted by. First case on 2020-1-21? todo-check)*
+
+Georgia: 2020-3-5
+*(Note: here, counted by. First case on 2020-2-26? todo-check)*
+
+New Zealand: 2020-3-14
+*(Note: here, counted by. First case on 2020-2-28? todo-check)*
+
+India: 2020-3-3
+*(Note: here, counted by. First case on 2020-1-30? todo-check)*
 
 ## Contribution
 Your contribution is warmly welcome.
