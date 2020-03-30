@@ -79,7 +79,7 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 +[Russia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/russia.csv)
 
-+[Russia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-korea.csv)
++[South Korea](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-korea.csv)
 
 ## Africa
 +[South Africa](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-africa.csv)
