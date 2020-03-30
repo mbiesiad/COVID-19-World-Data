@@ -1,10 +1,12 @@
 # COVID-19-Poland [WIP]
 All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases.
-Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Canada, USA, Israel, Japan.
+Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Canada, USA, Israel, Japan and more.
 
 *Update: extended also with Non-EU countries (see below)*
 
 ![chart_pl](https://github.com/mbiesiad/COVID-19-Poland/blob/master/media/chart_pl.png)
+
+*chart (days - cases) for Poland*
 
 # Tables
 ## Europe
@@ -24,12 +26,25 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 +[Georgia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/georgia.csv)
 
++[Russia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/russia.csv)
+
++[Hungary](https://github.com/mbiesiad/COVID-19-Poland/blob/master/hungary.csv)
+
++[Denmark](https://github.com/mbiesiad/COVID-19-Poland/blob/master/denmark.csv)
+
 +[Europe](https://github.com/mbiesiad/COVID-19-Poland/blob/master/eu.csv)
 
 ## North America
 +[Canada](https://github.com/mbiesiad/COVID-19-Poland/blob/master/canada.csv)
 
 +[USA](https://github.com/mbiesiad/COVID-19-Poland/blob/master/usa.csv)
+
+## South America
++[Bolivia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/bolivia.csv)
+
++[Uruguay](https://github.com/mbiesiad/COVID-19-Poland/blob/master/uruguay.csv)
+
++[Chile](https://github.com/mbiesiad/COVID-19-Poland/blob/master/chile.csv)
 
 ## Asia
 +[Israel](https://github.com/mbiesiad/COVID-19-Poland/blob/master/israel.csv)
@@ -40,8 +55,16 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 +[Georgia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/georgia.csv)
 
++[Russia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/russia.csv)
+
+## Africa
++[South Africa](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-africa.csv)
+
 ## Australia
 +[New Zealand](https://github.com/mbiesiad/COVID-19-Poland/blob/master/new-zealand.csv)
+
++[Australia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/australia.csv)
+
 
 # Sources for:
 Poland:
@@ -89,6 +112,30 @@ New Zealand:
 India:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India)
 
+South Africa:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Africa)
+
+Bolivia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bolivia)
+
+Uruguay:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Uruguay)
+
+Russia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Russia)
+
+Hungary:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Hungary)
+
+Australia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Australia)
+
+Chile:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Chile)
+
+Denmark:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark)
+
 # days_from_first_case counted since:
 *(date of first case, sources as [above](#sources-for))*
 
@@ -127,6 +174,25 @@ New Zealand: 2020-3-14
 
 India: 2020-3-3
 *(Note: here, counted by. First case on 2020-1-30? todo-check)*
+
+South Africa: 2020-3-5
+*(Note: here, counted by. First case on 2020-3-1? todo-check)*
+
+Bolivia: 2020-3-10
+
+Uruguay: 2020-3-13
+
+Russia: 2020-3-5
+*(Note: here, counted by. First case on 2020-1-31? todo-check)*
+
+Hungary: 2020-3-4
+
+Australia: 2020-3-16
+*(Note: here, counted by. First case on 2020-1-25? todo-check)*
+
+Chile: 2020-3-3
+
+Denmark: 2020-2-27
 
 ## Contribution
 Your contribution is warmly welcome.
