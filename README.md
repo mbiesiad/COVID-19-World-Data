@@ -84,10 +84,14 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 ## Africa
 +[South Africa](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-africa.csv)
 
-## Australia
+## Australia (Oceania)
 +[New Zealand](https://github.com/mbiesiad/COVID-19-Poland/blob/master/new-zealand.csv)
 
 +[Australia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/australia.csv)
+
++[French Polynesia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/french-polynesia.csv)
+
++[Papua New Guinea](https://github.com/mbiesiad/COVID-19-Poland/blob/master/papua-new-guinea.csv)
 
 
 # Sources for:
@@ -196,6 +200,13 @@ Belgium:
 South Korea:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Korea)
 
+French Polynesia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_French_Polynesia)
+
+Papua New Guinea:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Papua_New_Guinea)
+
+
 # days_from_first_case counted since:
 *(date of first case, sources as [above](#sources-for))*
 
@@ -280,6 +291,11 @@ Belgium: 2020-3-16
 *(Note: here, counted by. First case on 2020-2-4 todo-check)*
 
 South Korea: 2020-1-20
+
+French Polynesia: 2020-3-18
+*(Note: here, counted by. First case on 2020-3-11? todo-check)*
+
+Papua New Guinea: 2020-3-20
 
 ## Contribution
 Your contribution is warmly welcome.
