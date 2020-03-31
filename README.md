@@ -8,7 +8,11 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 *chart (days - cases) for Poland*
 
-Regions: Europe, North & South America, Asia, Africa, Australia (Oceania) with sources & dates.
+About 73 csv files.
+
+Regions: [Europe](#europe), [North](#north-america) & [South America](#south-america), [Asia](#asia), [Africa](#africa), [Australia (Oceania)](#australia-oceania) with [sources](#sources-for) & [dates](#days_from_first_case-counted-since).
+
+Date of the file's last update - see the last file's commit date
 
 # Tables
 ## Europe
