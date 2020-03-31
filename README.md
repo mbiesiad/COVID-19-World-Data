@@ -8,6 +8,8 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 *chart (days - cases) for Poland*
 
+Regions: Europe, North & South America, Asia, Africa, Australia (Oceania) with sources & dates.
+
 # Tables
 ## Europe
 +[Poland](https://github.com/mbiesiad/COVID-19-Poland/blob/master/poland.csv)
