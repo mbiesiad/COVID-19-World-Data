@@ -54,6 +54,40 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 +[Belgium](https://github.com/mbiesiad/COVID-19-Poland/blob/master/belgium.csv)
 
++[Latvia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/latvia.csv)
+
++[Lithuania](https://github.com/mbiesiad/COVID-19-Poland/blob/master/lithuania.csv)
+
++[Luxembourg](https://github.com/mbiesiad/COVID-19-Poland/blob/master/luxembourg.csv)
+
++[Romania](https://github.com/mbiesiad/COVID-19-Poland/blob/master/romania.csv)
+
++[Slovenia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/slovenia.csv)
+
++[Bosnia and Herzegovina](https://github.com/mbiesiad/COVID-19-Poland/blob/master/bosnia-and-herzegovina.csv)
+
++[Bulgaria](https://github.com/mbiesiad/COVID-19-Poland/blob/master/bulgaria.csv)
+
++[Croatia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/croatia.csv)
+
++[Cyprus](https://github.com/mbiesiad/COVID-19-Poland/blob/master/cyprus.csv)
+
++[Estonia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/estonia.csv)
+
++[Malta](https://github.com/mbiesiad/COVID-19-Poland/blob/master/malta.csv)
+
++[Moldova](https://github.com/mbiesiad/COVID-19-Poland/blob/master/moldova.csv)
+
++[Montenegro](https://github.com/mbiesiad/COVID-19-Poland/blob/master/montenegro.csv)
+
++[Vatican City](https://github.com/mbiesiad/COVID-19-Poland/blob/master/vatican-city.csv)
+
++[Kazakhstan](https://github.com/mbiesiad/COVID-19-Poland/blob/master/kazakhstan.csv)
+
++[San Marino](https://github.com/mbiesiad/COVID-19-Poland/blob/master/san-marino.csv)
+
++[Belarus](https://github.com/mbiesiad/COVID-19-Poland/blob/master/belarus.csv)
+
 +[Europe](https://github.com/mbiesiad/COVID-19-Poland/blob/master/eu.csv)
 
 ## North America
@@ -81,8 +115,45 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 +[South Korea](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-korea.csv)
 
++[Taiwan](https://github.com/mbiesiad/COVID-19-Poland/blob/master/taiwan.csv)
+
++[Turkey](https://github.com/mbiesiad/COVID-19-Poland/blob/master/turkey.csv)
+
++[Iran](https://github.com/mbiesiad/COVID-19-Poland/blob/master/iran.csv)
+
++[Indonesia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/indonesia.csv)
+
++[Pakistan](https://github.com/mbiesiad/COVID-19-Poland/blob/master/pakistan.csv)
+
 ## Africa
 +[South Africa](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-africa.csv)
+
++[Algeria](https://github.com/mbiesiad/COVID-19-Poland/blob/master/algeria.csv)
+
++[Canary Islands](https://github.com/mbiesiad/COVID-19-Poland/blob/master/canary-islands.csv)
+
++[Ethiopia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/ethiopia.csv)
+
++[Ghana](https://github.com/mbiesiad/COVID-19-Poland/blob/master/ghana.csv)
+
++[Kenya](https://github.com/mbiesiad/COVID-19-Poland/blob/master/kenya.csv)
+
++[Morocco](https://github.com/mbiesiad/COVID-19-Poland/blob/master/morocco.csv)
+
++[Mozambique](https://github.com/mbiesiad/COVID-19-Poland/blob/master/mozambique.csv)
+
++[Nigeria](https://github.com/mbiesiad/COVID-19-Poland/blob/master/nigeria.csv)
+
++[Senegal](https://github.com/mbiesiad/COVID-19-Poland/blob/master/senegal.csv)
+
++[Tunisia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/tunisia.csv)
+
++[Burkina Faso](https://github.com/mbiesiad/COVID-19-Poland/blob/master/burkina-faso.csv)
+
++[Egypt](https://github.com/mbiesiad/COVID-19-Poland/blob/master/egypt.csv)
+
++[Ivory Coast](https://github.com/mbiesiad/COVID-19-Poland/blob/master/ivory-coast.csv)
+
 
 ## Australia (Oceania)
 +[New Zealand](https://github.com/mbiesiad/COVID-19-Poland/blob/master/new-zealand.csv)
@@ -92,6 +163,8 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 +[French Polynesia](https://github.com/mbiesiad/COVID-19-Poland/blob/master/french-polynesia.csv)
 
 +[Papua New Guinea](https://github.com/mbiesiad/COVID-19-Poland/blob/master/papua-new-guinea.csv)
+
++[Fiji](https://github.com/mbiesiad/COVID-19-Poland/blob/master/fiji.csv)
 
 
 # Sources for:
@@ -206,6 +279,9 @@ French Polynesia:
 Papua New Guinea:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Papua_New_Guinea)
 
+Fiji:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Fiji)
+
 
 # days_from_first_case counted since:
 *(date of first case, sources as [above](#sources-for))*
@@ -296,6 +372,8 @@ French Polynesia: 2020-3-18
 *(Note: here, counted by. First case on 2020-3-11? todo-check)*
 
 Papua New Guinea: 2020-3-20
+
+Fiji: 2020-3-19
 
 ## Contribution
 Your contribution is warmly welcome.
