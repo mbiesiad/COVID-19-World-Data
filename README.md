@@ -282,6 +282,111 @@ Papua New Guinea:
 Fiji:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Fiji)
 
+Algeria:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Algeria)
+
+Canary Islands:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Canary_Islands
+
+Ethiopia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Ethiopia)
+
+Ghana:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Ghana)
+
+Kenya:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Kenya)
+
+Morocco:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Morocco)
+
+Mozambique:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Mozambique)
+
+Nigeria:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Nigeria)
+
+Senegal:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Senegal)
+
+Tunisia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Tunisia)
+
+Burkina Faso:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Burkina_Faso)
+
+Egypt:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Egypt)
+
+Ivory Coast:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Ivory_Coast)
+
+Taiwan:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Taiwan)
+
+Turkey:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Turkey)
+
+Iran:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Iran)
+
+Indonesia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Indonesia)
+
+Pakistan:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Pakistan)
+
+Latvia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Latvia)
+
+Lithuania:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Lithuania)
+
+Luxembourg:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Luxembourg)
+
+Romania:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Romania)
+
+Slovenia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Slovenia)
+
+Bosnia and Herzegovina:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bosnia_and_Herzegovina)
+
+Bulgaria:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bulgaria)
+
+Croatia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Croatia)
+
+Cyprus:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Cyprus)
+
+Estonia:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Estonia)
+
+Malta:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Malta
+
+Moldova:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Moldova)
+
+Montenegro:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Montenegro)
+
+Vatican City:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Vatican_City)
+
+Kazakhstan:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Kazakhstan)
+
+San Marino:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_San_Marino)
+
+Belarus:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Belarus)
+
 
 # days_from_first_case counted since:
 *(date of first case, sources as [above](#sources-for))*
@@ -374,6 +479,100 @@ French Polynesia: 2020-3-18
 Papua New Guinea: 2020-3-20
 
 Fiji: 2020-3-19
+
+Algeria: 2020-3-12
+*(Note: here, counted by. First case on 2020-2-25 todo-check)*
+
+Canary Islands: 2020-1-31
+
+Ethiopia: 2020-3-13
+
+Ghana: 2020-3-25
+*(Note: here, counted by. First case on 2020-3-12 todo-check)*
+
+Kenya: 2020-3-13
+
+Morocco: 2020-3-14
+*(Note: here, counted by. First case on 2020-3-2 todo-check)*
+
+Mozambique: 2020-3-22
+
+Nigeria: 2020-3-17
+*(Note: here, counted by. First case on 2020-2-27 todo-check)*
+
+Senegal: 2020-3-19
+*(Note: here, counted by. First case on 2020-3-2 todo-check)*
+
+Tunisia: 2020-3-8
+*(Note: here, counted by. First case on 2020-3-2 todo-check)*
+
+Burkina Faso: 2020-3-17
+*(Note: here, counted by. First case on 2020-3-9 todo-check)*
+
+Egypt: 2020-3-19
+*(Note: here, counted by. First case on 2020-2-14 todo-check)*
+
+Ivory Coast: 2020-3-24
+*(Note: here, counted by. First case on 2020-3-11 todo-check)*
+
+Taiwan: 2020-1-21
+
+Turkey: 2020-3-11
+
+Iran: 2020-3-17
+*(Note: here, counted by. First case on 2020-2-19 todo-check)*
+
+Indonesia: 2020-3-9
+*(Note: here, counted by. First case on 2020-3-2 todo-check)*
+
+Pakistan: 2020-3-17
+*(Note: here, counted by. First case on 2020-2-26 todo-check)*
+
+Latvia: 2020-3-8
+*(Note: here, counted by. First case on 2020-3-2 todo-check)*
+
+Lithuania: 2020-3-13
+*(Note: here, counted by. First case on 2020-2-28 todo-check)*
+
+Luxembourg: 2020-3-12
+*(Note: here, counted by. First case on 2020-2-29 todo-check)*
+
+Romania: 2020-3-3
+*(Note: here, counted by. First case on 2020-2-26 todo-check)*
+
+Slovenia: 2020-3-4
+
+Bosnia and Herzegovina: 2020-3-11
+*(Note: here, counted by. First case on 2020-3-5 todo-check)*
+
+Bulgaria: 2020-3-10
+*(Note: here, counted by. First case on 2020-3-8 todo-check)*
+
+Croatia: 2020-3-17
+*(Note: here, counted by. First case on 2020-2-25 todo-check)*
+
+Cyprus: 2020-3-9
+
+Estonia: 2020-3-10
+*(Note: here, counted by. First case on 2020-2-27 todo-check)*
+
+Malta: 2020-3-6
+
+Moldova: 2020-3-10
+*(Note: here, counted by. First case on 2020-3-7? todo-check)*
+
+Montenegro: 2020-3-17
+
+Vatican City: 2020-3-25
+*(Note: here, counted by. First case on 2020-3-5? todo-check)*
+
+Kazakhstan: 2020-3-13
+
+San Marino: 2020-3-17
+*(Note: here, counted by. First case on 2020-2-27? todo-check)*
+
+Belarus: 2020-3-3
+*(Note: here, counted by. First case on 2020-2-28? todo-check)*
 
 ## Contribution
 Your contribution is warmly welcome.
