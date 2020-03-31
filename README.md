@@ -288,7 +288,7 @@ Algeria:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Algeria)
 
 Canary Islands:
-[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Canary_Islands
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Canary_Islands)
 
 Ethiopia:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Ethiopia)
@@ -369,7 +369,7 @@ Estonia:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Estonia)
 
 Malta:
-[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Malta
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Malta)
 
 Moldova:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Moldova)
