@@ -1,5 +1,5 @@
 # COVID-19-Poland [WIP]
-All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases (csv format).
+All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases (csv, json, xml format).
 Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Canada, USA, Israel, Japan and more.
 
 *Update: extended also with Non-EU countries (see below)*
