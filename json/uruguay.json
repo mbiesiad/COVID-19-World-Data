@@ -1,0 +1,70 @@
+[
+  {
+    "days_from_first_case": 1,
+    "cases": 4
+  },
+  {
+    "days_from_first_case": 2,
+    "cases": 6
+  },
+  {
+    "days_from_first_case": 3,
+    "cases": 8
+  },
+  {
+    "days_from_first_case": 4,
+    "cases": 29
+  },
+  {
+    "days_from_first_case": 5,
+    "cases": 50
+  },
+  {
+    "days_from_first_case": 6,
+    "cases": 79
+  },
+  {
+    "days_from_first_case": 7,
+    "cases": 94
+  },
+  {
+    "days_from_first_case": 8,
+    "cases": 110
+  },
+  {
+    "days_from_first_case": 9,
+    "cases": 135
+  },
+  {
+    "days_from_first_case": 10,
+    "cases": 158
+  },
+  {
+    "days_from_first_case": 11,
+    "cases": 162
+  },
+  {
+    "days_from_first_case": 12,
+    "cases": 189
+  },
+  {
+    "days_from_first_case": 13,
+    "cases": 217
+  },
+  {
+    "days_from_first_case": 14,
+    "cases": 238
+  },
+  {
+    "days_from_first_case": 15,
+    "cases": 274
+  },
+  {
+    "days_from_first_case": 16,
+    "cases": 304
+  },
+  {
+    "days_from_first_case": 17,
+    "cases": 309
+  }
+]
