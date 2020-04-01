@@ -14,6 +14,19 @@ Regions: [Europe](#europe), [North](#north-america) & [South America](#south-ame
 
 Date of the file's last update - see the last file's commit date
 
+# Table of contents
+* [Tables](#tables)
+
+* [Sources](#sources-for)
+
+* [Counted since](#days_from_first_case-counted-since)
+
+* [Contribution](#contribution)
+
+* [Code of Conduct](#code-of-conduct)
+
+* [Disclaimer](#disclaimer)
+
 # Tables
 ## Europe
 +[Poland](https://github.com/mbiesiad/COVID-19-Poland/blob/master/poland.csv)
