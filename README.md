@@ -422,7 +422,7 @@ Israel: 2020-2-21
 Japan: 2020-1-29
 *(Note: from no.51 - data via chart from the top of the page [because is updated])*
 
-Europe: 2020-3-16
+Europe: 2020-3-18
 *(Note: here, counted by. First case on 2020-1-21? todo-check)*
 
 Georgia: 2020-3-5
@@ -580,6 +580,9 @@ San Marino: 2020-3-17
 
 Belarus: 2020-3-3
 *(Note: here, counted by. First case on 2020-2-28? todo-check)*
+
+## Data
+I see that data is sometimes changing (perhaps updates & fixes), so please remember about see the sources (above).
 
 ## Contribution
 Your contribution is warmly welcome.
