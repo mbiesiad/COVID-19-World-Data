@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <days_from_first_case>1</days_from_first_case>
+    <cases>1</cases>
+  </row>
+  <row>
+    <days_from_first_case>2</days_from_first_case>
+    <cases>1</cases>
+  </row>
+  <row>
+    <days_from_first_case>3</days_from_first_case>
+    <cases>3</cases>
+  </row>
+  <row>
+    <days_from_first_case>4</days_from_first_case>
+    <cases>5</cases>
+  </row>
+</root>
