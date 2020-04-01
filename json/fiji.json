@@ -1,0 +1,22 @@
+[
+  {
+    "days_from_first_case": 1,
+    "cases": 1
+  },
+  {
+    "days_from_first_case": 2,
+    "cases": 2
+  },
+  {
+    "days_from_first_case": 3,
+    "cases": 3
+  },
+  {
+    "days_from_first_case": 4,
+    "cases": 4
+  },
+  {
+    "days_from_first_case": 5,
+    "cases": 5
+  }
+]
