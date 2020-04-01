@@ -1,0 +1,26 @@
+[
+  {
+    "days": 1,
+    "cases": 73
+  },
+  {
+    "days": 2,
+    "cases": 80
+  },
+  {
+    "days": 3,
+    "cases": 96
+  },
+  {
+    "days": 4,
+    "cases": 101
+  },
+  {
+    "days": 5,
+    "cases": 140
+  },
+  {
+    "days": 6,
+    "cases": 165
+  }
+]
