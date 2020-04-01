@@ -1,0 +1,66 @@
+[
+  {
+    "days_from_first_case": 1,
+    "cases": 1
+  },
+  {
+    "days_from_first_case": 2,
+    "cases": 1
+  },
+  {
+    "days_from_first_case": 3,
+    "cases": 4
+  },
+  {
+    "days_from_first_case": 4,
+    "cases": 5
+  },
+  {
+    "days_from_first_case": 5,
+    "cases": 6
+  },
+  {
+    "days_from_first_case": 6,
+    "cases": 6
+  },
+  {
+    "days_from_first_case": 7,
+    "cases": 9
+  },
+  {
+    "days_from_first_case": 8,
+    "cases": 11
+  },
+  {
+    "days_from_first_case": 9,
+    "cases": 11
+  },
+  {
+    "days_from_first_case": 10,
+    "cases": 11
+  },
+  {
+    "days_from_first_case": 11,
+    "cases": 11
+  },
+  {
+    "days_from_first_case": 12,
+    "cases": 12
+  },
+  {
+    "days_from_first_case": 13,
+    "cases": 16
+  },
+  {
+    "days_from_first_case": 14,
+    "cases": 16
+  },
+  {
+    "days_from_first_case": 15,
+    "cases": 21
+  },
+  {
+    "days_from_first_case": 16,
+    "cases": 23
+  }
+]
