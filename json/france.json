@@ -1,0 +1,146 @@
+[
+  {
+    "days": 1,
+    "nr_cases": 13
+  },
+  {
+    "days": 2,
+    "nr_cases": 18
+  },
+  {
+    "days": 3,
+    "nr_cases": 38
+  },
+  {
+    "days": 4,
+    "nr_cases": 57
+  },
+  {
+    "days": 5,
+    "nr_cases": 100
+  },
+  {
+    "days": 6,
+    "nr_cases": 130
+  },
+  {
+    "days": 7,
+    "nr_cases": 191
+  },
+  {
+    "days": 8,
+    "nr_cases": 212
+  },
+  {
+    "days": 9,
+    "nr_cases": 285
+  },
+  {
+    "days": 10,
+    "nr_cases": 423
+  },
+  {
+    "days": 11,
+    "nr_cases": 613
+  },
+  {
+    "days": 12,
+    "nr_cases": 949
+  },
+  {
+    "days": 13,
+    "nr_cases": 1126
+  },
+  {
+    "days": 14,
+    "nr_cases": 1412
+  },
+  {
+    "days": 15,
+    "nr_cases": 1784
+  },
+  {
+    "days": 16,
+    "nr_cases": 2281
+  },
+  {
+    "days": 17,
+    "nr_cases": 2876
+  },
+  {
+    "days": 18,
+    "nr_cases": 3661
+  },
+  {
+    "days": 19,
+    "nr_cases": 4499
+  },
+  {
+    "days": 20,
+    "nr_cases": 5423
+  },
+  {
+    "days": 21,
+    "nr_cases": 6633
+  },
+  {
+    "days": 22,
+    "nr_cases": 7730
+  },
+  {
+    "days": 23,
+    "nr_cases": 9134
+  },
+  {
+    "days": 24,
+    "nr_cases": 10995
+  },
+  {
+    "days": 25,
+    "nr_cases": 12612
+  },
+  {
+    "days": 26,
+    "nr_cases": 14459
+  },
+  {
+    "days": 27,
+    "nr_cases": 16689
+  },
+  {
+    "days": 28,
+    "nr_cases": 19856
+  },
+  {
+    "days": 29,
+    "nr_cases": 22302
+  },
+  {
+    "days": 30,
+    "nr_cases": 25233
+  },
+  {
+    "days": 31,
+    "nr_cases": 29155
+  },
+  {
+    "days": 32,
+    "nr_cases": 32964
+  },
+  {
+    "days": 33,
+    "nr_cases": 37575
+  },
+  {
+    "days": 34,
+    "nr_cases": 40174
+  },
+  {
+    "days": 35,
+    "nr_cases": 44550
+  },
+  {
+    "days": 36,
+    "nr_cases": 52128
+  }
+]
