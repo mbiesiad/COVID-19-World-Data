@@ -8,7 +8,7 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 *chart (days - cases) for Poland*
 
-About 73 csv files.
+About 73 csv files. Available formats: csv, json, xml.
 
 Regions: [Europe](#europe), [North](#north-america) & [South America](#south-america), [Asia](#asia), [Africa](#africa), [Australia (Oceania)](#australia-oceania) with [sources](#sources-for) & [dates](#days_from_first_case-counted-since).
 
