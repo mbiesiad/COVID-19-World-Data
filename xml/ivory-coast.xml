@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <days>1</days>
+    <cases>73</cases>
+  </row>
+  <row>
+    <days>2</days>
+    <cases>80</cases>
+  </row>
+  <row>
+    <days>3</days>
+    <cases>96</cases>
+  </row>
+  <row>
+    <days>4</days>
+    <cases>101</cases>
+  </row>
+  <row>
+    <days>5</days>
+    <cases>140</cases>
+  </row>
+  <row>
+    <days>6</days>
+    <cases>165</cases>
+  </row>
+</root>
