@@ -1,0 +1,66 @@
+[
+  {
+    "days": 1,
+    "nr_cases": 4373
+  },
+  {
+    "days": 2,
+    "nr_cases": 5664
+  },
+  {
+    "days": 3,
+    "nr_cases": 8074
+  },
+  {
+    "days": 4,
+    "nr_cases": 12022
+  },
+  {
+    "days": 5,
+    "nr_cases": 17439
+  },
+  {
+    "days": 6,
+    "nr_cases": 23710
+  },
+  {
+    "days": 7,
+    "nr_cases": 32341
+  },
+  {
+    "days": 8,
+    "nr_cases": 42751
+  },
+  {
+    "days": 9,
+    "nr_cases": 52690
+  },
+  {
+    "days": 10,
+    "nr_cases": 64916
+  },
+  {
+    "days": 11,
+    "nr_cases": 81966
+  },
+  {
+    "days": 12,
+    "nr_cases": 100997
+  },
+  {
+    "days": 13,
+    "nr_cases": 121105
+  },
+  {
+    "days": 14,
+    "nr_cases": 141288
+  },
+  {
+    "days": 15,
+    "nr_cases": 162161
+  },
+  {
+    "days": 16,
+    "nr_cases": 185791
+  }
+]
