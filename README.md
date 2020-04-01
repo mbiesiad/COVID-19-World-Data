@@ -604,7 +604,7 @@ Examples of behavior that contributes to creating a positive environment include
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
 
 ------------------------
-Last updated: 30/3/2020
+Last updated: 31/3/2020
 
 Created by: @[mbiesiad](https://github.com/mbiesiad)
 
