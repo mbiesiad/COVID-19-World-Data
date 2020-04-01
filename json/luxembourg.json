@@ -1,0 +1,78 @@
+[
+  {
+    "days": 1,
+    "cases": 26
+  },
+  {
+    "days": 2,
+    "cases": 34
+  },
+  {
+    "days": 3,
+    "cases": 51
+  },
+  {
+    "days": 4,
+    "cases": 77
+  },
+  {
+    "days": 5,
+    "cases": 81
+  },
+  {
+    "days": 6,
+    "cases": 140
+  },
+  {
+    "days": 7,
+    "cases": 203
+  },
+  {
+    "days": 8,
+    "cases": 335
+  },
+  {
+    "days": 9,
+    "cases": 484
+  },
+  {
+    "days": 10,
+    "cases": 670
+  },
+  {
+    "days": 11,
+    "cases": 798
+  },
+  {
+    "days": 12,
+    "cases": 875
+  },
+  {
+    "days": 13,
+    "cases": 1099
+  },
+  {
+    "days": 14,
+    "cases": 1333
+  },
+  {
+    "days": 15,
+    "cases": 1453
+  },
+  {
+    "days": 16,
+    "cases": 1605
+  },
+  {
+    "days": 17,
+    "cases": 1831
+  },
+  {
+    "days": 18,
+    "cases": 1950
+  },
+  {
+    "days": 19,
+    "cases": 1988
+  }
+]
