@@ -144,6 +144,8 @@ Date of the file's last update - see the last file's commit date
 
 +[Pakistan](https://github.com/mbiesiad/COVID-19-Poland/blob/master/pakistan.csv)
 
++[Bangladesh](https://github.com/mbiesiad/COVID-19-Poland/blob/master/bangladesh.csv)
+
 ## Africa
 +[South Africa](https://github.com/mbiesiad/COVID-19-Poland/blob/master/south-africa.csv)
 
@@ -406,6 +408,9 @@ San Marino:
 Belarus:
 [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Belarus)
 
+Bangladesh:
+[Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bangladesh)
+
 
 # days_from_first_case counted since:
 *(date of first case, sources as [above](#sources-for))*
@@ -593,6 +598,9 @@ San Marino: 2020-3-17
 
 Belarus: 2020-3-3
 *(Note: here, counted by. First case on 2020-2-28? todo-check)*
+
+Bangladesh: 2020-3-16
+*(Note: here, counted by. First case on 2020-3-7? todo-check)*
 
 ## Data
 I see that data is sometimes changing (perhaps updates & fixes), so please remember about see the sources (above).
