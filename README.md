@@ -4,9 +4,13 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 *Update: extended also with Non-EU countries (see below)*
 
+![chart_pl_zoomed_1](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/chart_pl_zoomed_1.png)
+
+![chart_pl_2](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/chart_pl_2.png)
+
 ![chart_pl](https://github.com/mbiesiad/COVID-19-Poland/blob/master/media/chart_pl.png)
 
-*chart (days - cases) for Poland*
+*charts (days - cases) for Poland*
 
 About 73 csv files. Available formats: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [JSON](https://en.wikipedia.org/wiki/JSON), [XML](https://en.wikipedia.org/wiki/XML).
 
