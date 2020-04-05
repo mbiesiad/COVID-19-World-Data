@@ -8,7 +8,7 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 *chart (days - cases) for Poland*
 
-About 73 csv files. Available formats: csv, json, xml.
+About 73 csv files. Available formats: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [JSON](https://en.wikipedia.org/wiki/JSON), [XML](https://en.wikipedia.org/wiki/XML).
 
 Regions: [Europe](#europe), [North](#north-america) & [South America](#south-america), [Asia](#asia), [Africa](#africa), [Australia (Oceania)](#australia-oceania) with [sources](#sources-for) & [dates](#days_from_first_case-counted-since).
 
@@ -625,7 +625,7 @@ Examples of behavior that contributes to creating a positive environment include
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
 
 ------------------------
-Last updated: 1/4/2020
+Last updated: 4/4/2020
 
 Created by: @[mbiesiad](https://github.com/mbiesiad)
 
