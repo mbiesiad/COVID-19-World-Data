@@ -4,6 +4,10 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 *Update: extended also with Non-EU countries (see below)*
 
+![poland-chart-day-80-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-day-80-comparison.png)
+
+![poland-chart-day-80](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-80.png)
+
 ![poland-chart-day-63-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-day-63-comparison.png)
 
 ![poland-chart-day-63](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-63.png)
