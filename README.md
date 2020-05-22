@@ -8,6 +8,31 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 ![poland-chart-day-80](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-80.png)
 
+*charts (days - cases) for Poland*
+
+About 73 csv files. Available formats: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [JSON](https://en.wikipedia.org/wiki/JSON), [XML](https://en.wikipedia.org/wiki/XML).
+
+Regions: [Europe](#europe), [North](#north-america) & [South America](#south-america), [Asia](#asia), [Africa](#africa), [Australia (Oceania)](#australia-oceania) with [sources](#sources-for) & [dates](#days_from_first_case-counted-since).
+
+Date of the file's last update - see the last file's commit date
+
+# Table of contents
+* [Charts](#charts)
+
+* [Tables](#tables)
+
+* [Sources](#sources-for)
+
+* [Counted since](#days_from_first_case-counted-since)
+
+* [Contribution](#contribution)
+
+* [Code of Conduct](#code-of-conduct)
+
+* [Disclaimer](#disclaimer)
+
+# Charts
+
 ![poland-chart-day-63-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-day-63-comparison.png)
 
 ![poland-chart-day-63](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-63.png)
@@ -27,25 +52,6 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 ![chart_pl](https://github.com/mbiesiad/COVID-19-Poland/blob/master/media/chart_pl.png)
 
 *charts (days - cases) for Poland*
-
-About 73 csv files. Available formats: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [JSON](https://en.wikipedia.org/wiki/JSON), [XML](https://en.wikipedia.org/wiki/XML).
-
-Regions: [Europe](#europe), [North](#north-america) & [South America](#south-america), [Asia](#asia), [Africa](#africa), [Australia (Oceania)](#australia-oceania) with [sources](#sources-for) & [dates](#days_from_first_case-counted-since).
-
-Date of the file's last update - see the last file's commit date
-
-# Table of contents
-* [Tables](#tables)
-
-* [Sources](#sources-for)
-
-* [Counted since](#days_from_first_case-counted-since)
-
-* [Contribution](#contribution)
-
-* [Code of Conduct](#code-of-conduct)
-
-* [Disclaimer](#disclaimer)
 
 # Tables
 ## Europe
