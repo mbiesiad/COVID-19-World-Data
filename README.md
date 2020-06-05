@@ -4,9 +4,9 @@ Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Ca
 
 *Update: extended also with Non-EU countries (see below)*
 
-![poland-chart-day-80-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-day-80-comparison.png)
+![poland-chart-day-93-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-93-comparison.png)
 
-![poland-chart-day-80](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-80.png)
+![poland-chart-day-93](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-93.png)
 
 *charts (days - cases) for Poland*
 
@@ -32,6 +32,10 @@ Date of the file's last update - see the last file's commit date
 * [Disclaimer](#disclaimer)
 
 # Charts
+
+![poland-chart-day-80-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-day-80-comparison.png)
+
+![poland-chart-day-80](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-80.png)
 
 ![poland-chart-day-63-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-day-63-comparison.png)
 
@@ -651,7 +655,7 @@ Examples of behavior that contributes to creating a positive environment include
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
 
 ------------------------
-Last updated: 8/5/2020
+Last updated: 5/6/2020
 
 Created by: @[mbiesiad](https://github.com/mbiesiad)
 
