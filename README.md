@@ -2,6 +2,8 @@
 All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases (csv, json, xml format).
 Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Canada, USA, Israel, Japan and more. Table of contents is [here](#table-of-contents).
 
+When the project was kicked off, there was a lack of the APIs or data. That was quite useful I hope.
+
 *Update: extended also with Non-EU countries (see below)*
 
 ![poland-chart-day-93-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-93-comparison.png)
