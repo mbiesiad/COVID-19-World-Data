@@ -645,7 +645,7 @@ I see that data is sometimes changing (perhaps updates & fixes), so please remem
 Your contribution is warmly welcome.
 
 If you see something incorrect, please use an issue or contact with me directly.
-If you want add or improve something - just make a fork & PR, fell free.
+If you want add or improve something - just make a fork & PR, fell free. Work on develop branch.
 
 ## Code of Conduct
 Examples of behavior that contributes to creating a positive environment include:
