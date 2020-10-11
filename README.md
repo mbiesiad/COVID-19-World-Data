@@ -655,6 +655,225 @@ Examples of behavior that contributes to creating a positive environment include
     Gracefully accepting constructive criticism
     Focusing on what is best for the community
     Showing empathy towards other community members
+    
+## Countries, territories or areas with reported laboratory-confirmed COVID-19 cases till august 2020  in decreasing order
+
+**Country/Territory/Area	Confirmed Cases
+
+United States of America	524514
+Spain	166019
+Italy	156363
+Germany	123016
+France	94382
+United Kingdom	84283
+China	83597
+Iran	71686
+Turkey	56956
+Belgium	29647
+Netherlands	25587
+Switzerland	25220
+Canada	23702
+Brazil	20727
+Russian Federation	18328
+Portugal	16585
+Austria	13937
+Israel	10878
+Republic of Korea	10537
+Sweden	10483
+Ireland	9655
+India	9152
+Ecuador	7466
+Japan	7255
+Chile	7213
+Peru	6848
+Poland	6674
+Norway	6415
+Australia	6322
+Romania	6300
+Denmark	6174
+Czechia	5991
+Pakistan	5374
+Malaysia	4683
+Philippines	4648
+Saudi Arabia	4462
+Indonesia	4241
+Mexico	4219
+United Arab Emirates	4123
+Serbia	3630
+Luxembourg	3281
+Panama	3234
+Ukraine	3102
+Qatar	2979
+Finland	2974
+Dominican Republic	2967
+Colombia	2709
+Thailand	2579
+Belarus	2578
+Singapore	2532
+South Africa	2173
+Greece	2114
+Egypt	2065
+Argentina	1975
+Algeria	1914
+Iceland	1701
+Republic of Moldova	1662
+Morocco	1661
+Croatia	1600
+Hungary	1458
+Iraq	1352
+Estonia	1309
+Kuwait	1234
+Slovenia	1205
+Bahrain	1136
+Azerbaijan	1098
+New Zealand	1064
+Lithuania	1062
+Armenia	1039
+Bosnia and Herzegovina	1007
+Kazakhstan	979
+Puerto Rico	897
+Uzbekistan	896
+North Macedonia	828
+Cameroon	803
+Slovakia	742
+Oman	727
+International (Diamond Princess Cruise Ship)	712
+Tunisia	707
+Bulgaria	675
+Cuba	669
+Latvia	651
+Andorra	639
+Cyprus	633
+Lebanon	630
+Bangladesh	621
+Afghanistan	607
+Costa Rica	577
+Ghana	566
+Côte d’Ivoire	533
+Niger	529
+Uruguay	501
+Albania	446
+Burkina Faso	443
+Kyrgyzstan	419
+Honduras	393
+Jordan	389
+Réunion	389
+Malta	378
+Kosovo	362
+San Marino	356
+Mauritius	324
+Nigeria	323
+Bolivia	300
+Senegal	280
+Palestinian Territory	271
+Montenegro	267
+Georgia	266
+Vietnam	262
+Guinea	250
+Democratic Republic of the Congo	235
+Isle of Man	226
+Djibouti	215
+Sri Lanka	210
+Guernsey	209
+Mayotte	207
+Jersey	198
+Kenya	197
+Faroe Islands	184
+Venezuela	171
+Martinique	156
+Guatemala	153
+Guadeloupe	143
+Brunei Darussalam	136
+Paraguay	134
+Guam	133
+Gibraltar	129
+Rwanda	126
+El Salvador	125
+Cambodia	122
+Trinidad and Tobago	112
+Madagascar	106
+Aruba	92
+Mali	87
+French Guiana	86
+Liechtenstein	80
+Togo	76
+Ethiopia	71
+Congo	70
+Jamaica	69
+Barbados	68
+Gabon	57
+Monaco	54
+Uganda	54
+Cayman Islands	53
+French Polynesia	53
+United States Virgin Islands	53
+Bermuda	50
+Liberia	50
+Sint Maarten	50
+Zambia	43
+Bahamas	42
+Myanmar	41
+Guinea-Bissau	39
+Guyana	37
+Benin	35
+Eritrea	34
+Saint Martin	33
+United Republic of Tanzania	32
+Haiti	31
+Libya	25
+Somalia	25
+Syrian Arab Republic	25
+Antigua and Barbuda	21
+Maldives	20
+Mozambique	20
+Angola	19
+Lao People’s Democratic Republic	19
+Sudan	19
+Chad	18
+New Caledonia	18
+Dominica	16
+Equatorial Guinea	16
+Fiji	16
+Mongolia	16
+Namibia	16
+Saint Lucia	15
+Curaçao	14
+Eswatini	14
+Grenada	14
+Zimbabwe	14
+Belize	13
+Botswana	13
+Malawi	13
+Nepal	12
+Saint Kitts and Nevis	12
+Saint Vincent and the Grenadines	12
+Central African Republic	11
+Greenland	11
+Northern Mariana Islands	11
+Seychelles	11
+Sierra Leone	10
+Suriname	10
+Gambia	9
+Montserrat	9
+Nicaragua	9
+Turks and Caicos	9
+Holy See	8
+Cabo Verde	7
+Mauritania	7
+Saint Barthelemy	6
+Bhutan	5
+Burundi	5
+Falkland Islands (Malvinas)	5
+São Tomé and Príncipe	4
+South Sudan	4
+Anguilla	3
+Bonaire, Sint Eustatius and Saba	3
+British Virgin Islands	3
+Papua New Guinea	2
+Timor-Leste	2
+Saint Pierre and Miquelon	1
+Yemen	1
+Total	1773084
 
 
 ## Disclaimer
