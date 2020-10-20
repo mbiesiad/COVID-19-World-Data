@@ -665,4 +665,4 @@ Last updated: 1/7/2020
 
 Created by: @[mbiesiad](https://github.com/mbiesiad)
 
-#stayhome #staysafe
+#stayhome #staysafe #stay-updated-with-us
