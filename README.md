@@ -9,7 +9,7 @@ When the project was kicked off, there was a lack of the APIs or data. That was 
 *Update-2: I decided that the charts can't be created anymore.*
 
 ⚠️ *Update-3:*
-When the project started, a lot of important information and data was missing. All of us were surprised, etc. I'm really happy that the project was quite useful I believe for some time (I've seen so great stats, like downloads, entries and so on so on). Now (June 2021) many thing were changed. We have access to many DB, data, thematic pages. Now I will be focused mainly just for .pl stats. How long? Good question. The next update will probably be relevant when the project closes. Many thanks for everyone! Best wishes.
+When the project started, a lot of important information and data was missing. All of us were surprised, etc. I'm really happy that the project was quite useful I believe for some time (I've seen so great stats, like downloads, entries and so on so on). Now (June 2021) many thing were changed. We have access to many DBs, data, thematic pages. Now I will be focused mainly just for .pl stats. How long? Good question. The next _update_ will probably be relevant when the project closes. Many thanks for everyone! You're great. Best wishes.
 
 ![poland-chart-day-93-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-93-comparison.png)
 
