@@ -1,5 +1,5 @@
 # COVID-19-World-Data
-All officially confirmed cases of covid infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases (csv, json, xml format).
+All officially confirmed cases of COVID-19 infection in Poland &amp; few others European countries. Listed by first day of official case, number of cases (csv, json, xml format).
 Countries data: Poland, Germany, Czech Republic, France, Slovakia, Spain, UK, Canada, USA, Israel, Japan and more. **Table of contents** is [here](#table-of-contents).
 
 When the project was kicked off, there was a lack of the APIs or data. That was quite useful I hope (saw the stats, thank you!).
