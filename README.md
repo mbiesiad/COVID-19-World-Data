@@ -11,6 +11,10 @@ When the project was kicked off, there was a lack of the APIs or data. That was 
 ⚠️ *Update-3:*
 When the project started, a lot of important information and data was missing. All of us were surprised, etc. I'm really happy that the project was quite useful I believe for some time (I've seen so great stats, like downloads, entries and so on so on). Now (June 2021) many thing were changed. We have access to many APIs, DBs, data, thematic pages (about COVID-19). Now I will be focused mainly just for .pl stats. How long? Good question. The next _update_ will probably be relevant when the project closes. Many thanks for everyone! You're great. Best wishes.
 
+Check it out [HERE](https://mbiesiad.github.io/COVID-19-World-Data/).
+
+![poland-chart-day-714](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-day-714.PNG)
+
 ![poland-chart-day-93-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-93-comparison.png)
 
 ![poland-chart-day-93](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-93.png)
@@ -40,7 +44,13 @@ Date of the file's last update - see the last file's commit date
 
 # Charts
 
+Chart created with awesome [Chart.JS](https://www.chartjs.org/) 🚀
+
+[HERE](https://mbiesiad.github.io/COVID-19-World-Data/)
+
 Update: I decided about finish to creating a charts.
+
+![poland-chart-day-714](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-day-714.PNG)
 
 ![poland-chart-day-80-comparison](https://github.com/mbiesiad/COVID-19-World-Data/blob/master/media/poland-chart-day-80-comparison.png)
 
